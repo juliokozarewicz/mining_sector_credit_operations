@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Nonseasonal differences needed for stationarity: 1
+
+Variable: MINING SECTOR CREDIT OPERATIONS (R$ MILLIONS)
+ADF Test: -8.426458
+P-value: 0.000000
+Lags: 0
+Observations: 115
+Critical values:
+  1%: -4.039730
+  5%: -3.449380
+  10%: -3.149845
+--------------------------------------------------

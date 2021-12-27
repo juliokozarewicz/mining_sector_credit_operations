@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: MINING SECTOR CREDIT OPERATIONS (R$ MILLIONS) (level)
+Mean: 25877.42
+Median: 25744.00
+Sample std: 8460.36
+Variance: 71577693.23
+Lowest: 14799.00
+Highest: 42509.00
+--------------------------------------------------

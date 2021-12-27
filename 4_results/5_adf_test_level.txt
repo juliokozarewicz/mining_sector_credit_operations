@@ -1,0 +1,13 @@
+--------------------------------------------------
+ADF Results (level):
+
+Variable: MINING SECTOR CREDIT OPERATIONS (R$ MILLIONS)
+ADF Test: -2.239240
+P-value: 0.467805
+Lags: 1
+Observations: 115
+Critical values:
+  1%: -4.039730
+  5%: -3.449380
+  10%: -3.149845
+--------------------------------------------------
